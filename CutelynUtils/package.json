@@ -1,0 +1,20 @@
+{
+  "name": "com.caitlynmilne.cutelynutils",
+  "version": "0.1.0",
+  "displayName": "Cutelyn Utils",
+  "description": "Package containing my own reusable and useful code tools and assets",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "utils",
+    "cutelyn",
+    "cait"
+  ],
+  "author": {
+    "name": "Caitlyn MIlne",
+    "email": "me@caitlynmilne.com",
+    "url": "https://www.caitlynmilne.com"
+  },
+  "dependencies": {},
+  "hideInEditor": false
+}
